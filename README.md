@@ -1,4 +1,4 @@
-# Damian Ehrenburg - Author & Developer
+# Damian Ehrenburg — Author & Developer
 
 Focused on creating complete products from concept to final release. My work lies at the intersection of technology and storytelling.
 
@@ -6,7 +6,7 @@ Focused on creating complete products from concept to final release. My work lie
 
 ## Published Works
 
-*   **Novel: "Гниль" (Gnil)** - My debut novel in the psychological horror genre, published in Russian. It establishes the world and themes for my interactive projects.
+*   **Novel: *Gnil* ("The Rot")** — My debut novel in the psychological horror genre, published in Russian. It establishes the world and themes for my interactive projects.
     *   **Available on [Litres](https://www.litres.ru/book/demian-erenburg/gnil-72005341/)**
 
 *   **Game: "Freedom in Rot"** (Godot Engine)
