@@ -27,7 +27,7 @@ Below is a summary of my key technical projects. The focus here is on the finish
     *   An intelligent bot that recommends movies by analyzing the user's mood via an **NLP model** from Hugging Face.
     *   Built with **Python** and asynchronous logic (**asyncio**).
 
-*   **Provider Bot (Business Automation)**
+*   **AeroNet (Business Automation)**
     *   A Telegram bot to automate customer application intake for an ISP.
     *   Features a step-by-step dialogue and direct integration with **Google Sheets**.
 
