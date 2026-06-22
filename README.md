@@ -1,56 +1,43 @@
 # Damian Ehrenburg
 
-Junior Python Developer focused on Telegram bots, desktop applications, API integrations and automation tools.
-I also build interactive prototypes in Godot/GDScript.
+I build desktop apps, Telegram bots, API integrations and Godot prototypes.
+
+I like projects that become usable things: local tools, automation flows, small games, narrative experiments and atmospheric scenes.
+
+[Technical portfolio](https://github.com/DamianEhrenburg/portfolio) · [Personal website](https://damianehrenburg.neocities.org) · [Freedom in Rot](https://d-ehrenburg.itch.io/freedom-in-rot)
 
 ---
 
-## Technical Portfolio
+## Projects
 
-[View my technical portfolio](https://github.com/DamianEhrenburg/portfolio) — project descriptions, screenshots and selected work examples.
-
----
-
-## Tech Stack
-
-**Python:** PyQt, SQLite, Telegram Bot API, REST API, JSON, Google APIs, Hugging Face
-**Game Development:** Godot Engine, GDScript, UI, localization, prototyping
-**Tools:** Git, GitHub, technical documentation, debugging, basic testing
+| Project | Stack | Focus |
+|---|---|---|
+| **Quietfolio** | TypeScript, React, Electron, SQLite | Local-first desktop library, book catalog search, polished UI |
+| **Incident 21:37** | Godot 4, GDScript, 3D | PSX-style horror prototype, scene design, tasks, in-game time |
+| **Freedom in Rot: Prologue** | Godot 4, GDScript | Published first-person horror prototype, interaction, localization |
+| **Moodcast** | Python, Telegram Bot API, Hugging Face, REST API | Movie recommendation bot, external APIs, conversational flow |
+| **AeroNet** | Python, Telegram Bot API, Google Sheets API | Application forms, validation, Google Sheets automation |
 
 ---
 
-## Featured Projects
+## Stack
 
-| Project                      | Stack                                            | Description                                                                                                 |
-| ---------------------------- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| **Librokeeper**              | Python, PyQt, SQLite, Google Books API           | Desktop app for managing a home library: local database, book editing, search and Google Books integration. |
-| **Moodcast**                 | Python, Telegram Bot API, Hugging Face, REST API | Telegram bot that recommends movies and TV shows based on the user's mood.                                  |
-| **AeroNet**                  | Python, Telegram Bot API, Google Sheets API      | Telegram bot for collecting customer applications and saving them to Google Sheets.                         |
-| **Freedom in Rot: Prologue** | Godot 4, GDScript                                | Short first-person psychological horror prototype published on itch.io.                                     |
-| **Incident 21:37**           | Godot 4, GDScript, 3D, UI                        | Work-in-progress PSX-style horror project with task system, in-game time and interactive objects.           |
+**Desktop/Web:** TypeScript, React, Electron, SQLite  
+**Python:** PyQt, Telegram Bot API, REST API, JSON, Google APIs, Hugging Face  
+**Game Development:** Godot 4, GDScript, 3D scenes, UI, localization  
+**Tools:** Git, GitHub, debugging, documentation, basic testing
 
 ---
 
-## Project Links
-
-* **Technical portfolio:** https://github.com/DamianEhrenburg/portfolio
-* **Freedom in Rot: Prologue:** https://d-ehrenburg.itch.io/freedom-in-rot
-* **Personal website:** https://damianehrenburg.neocities.org
-
----
-
-<details>
-<summary>Creative work</summary>
+## Creative Work
 
 I also work on a dark urban horror setting that connects my writing, website and game prototypes.
 
-* Novel: *Gnil* / *The Rot*
-* Game prototype: *Freedom in Rot: Prologue*
-* Website with lore, archives and interactive materials
+- Novel: *Gnil* / *The Rot*
+- Game prototype: *Freedom in Rot: Prologue*
+- Website with lore, archives and interactive materials
 
 **Novel pages:**
 
-* Author.Today: https://author.today/work/496376
-* LitRes: https://www.litres.ru/book/demian-erenburg/gnil-72005341/
-
-</details>
+- Author.Today: https://author.today/work/496376
+- LitRes: https://www.litres.ru/book/demian-erenburg/gnil-72005341/
