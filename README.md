@@ -12,9 +12,9 @@ I like projects that become usable things: local tools, automation flows, small 
 
 | Project | Stack | Focus |
 |---|---|---|
-| **Quietfolio** | TypeScript, React, Electron, SQLite | Local-first desktop library, book catalog search, polished UI |
-| **Incident 21:37** | Godot 4, GDScript, 3D | PSX-style horror prototype, scene design, tasks, in-game time |
-| **Freedom in Rot: Prologue** | Godot 4, GDScript | Published first-person horror prototype, interaction, localization |
+| **Quietfolio** | TypeScript, React, Electron, SQLite | Local-first desktop library, catalog search, reading notes |
+| **Incident 21:37** | Godot 4, GDScript, 3D | PSX-style horror prototype, scene design, game flow, in-game time |
+| **Freedom in Rot: Prologue** | Godot 4, GDScript, 3D | Published first-person horror prototype, interaction, localization |
 | **Moodcast** | Python, Telegram Bot API, Hugging Face, REST API | Movie recommendation bot, external APIs, conversational flow |
 | **AeroNet** | Python, Telegram Bot API, Google Sheets API | Application forms, validation, Google Sheets automation |
 
