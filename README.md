@@ -14,7 +14,7 @@ My main technical portfolio is here:
 |---|---|---|
 | [**Quietfolio**](https://github.com/DamianEhrenburg/quietfolio) | TypeScript, React, Electron, SQLite | Local-first desktop app for a personal book library, catalog search, reading statuses and notes |
 | [**Moodcast**](https://github.com/DamianEhrenburg/moodcast) | Python, Telegram Bot API, Hugging Face, REST API | Telegram bot for movie and TV recommendations based on a mood description |
-| **AeroNet** | Python, Telegram Bot API, Google Sheets API | Telegram bot for collecting application forms and saving them to Google Sheets |
+| [**AeroNet**](https://github.com/DamianEhrenburg/aeronet) | Python, Telegram Bot API, Google Sheets API | Telegram bot for collecting application forms and saving them to Google Sheets |
 | **Incident 21:37** | Godot 4, GDScript, 3D | Work-in-progress PSX-style horror prototype with scene logic, tasks and in-game time |
 | [**Freedom in Rot: Prologue**](https://d-ehrenburg.itch.io/freedom-in-rot) | Godot 4, GDScript, 3D | Short first-person horror prototype with interaction, UI and localization |
 
